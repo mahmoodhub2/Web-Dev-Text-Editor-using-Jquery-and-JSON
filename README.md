@@ -1,2 +1,2 @@
 # Web-Dev-Text-Editor-using-Jquery-and-JSON
-This website allows the user to upload a file and read from it by getting the user's input and transferring it to the server-side that is built in php using JQUERY and JSON, then getting the response from the server-side and inserting it into the client side
+This website allows the user to upload a file and display it's content by getting the user's input (file name) and sending it to the server-side that is built in php using JQUERY and JSON. In the server side I search for that file in the current directory and read it's content then send the content to JSON, and using JSON I insert that content into the client-side.
