@@ -1,0 +1,66 @@
+/*  CSS Style for Online Text Editor HTML Elements */
+
+body
+{
+    background-color:   black;
+    min-width       :   500px;
+}
+
+h1 
+{
+    font-family:        "Trebuchet MS", Helvetica, sans-serif;
+    color:              white;
+    font-size:          42px;
+    text-align:         center;
+}
+
+
+.center 
+{
+    display:            block;
+    margin-left:        auto;
+    margin-right:       auto;
+    width:              50%;
+}
+
+
+
+
+
+.textTitle 
+{
+    font-family:        "Trebuchet MS", Helvetica, sans-serif;
+    font-size:          28px;
+    font-style:         normal;
+    font-variant:       normal;
+    font-weight:        600;
+    line-height:        15px;
+    color:              white;
+    border-radius:      10px 10px 10px 10px;
+}
+
+
+
+.selectButton
+{
+    background-color:   green;
+    border:             none;
+    color:              white;
+    border-radius:      10px 10px 10px 10px;
+    padding:            8px 16px;
+    font-family:        "Trebuchet MS", Helvetica, sans-serif;
+    font-size:          15px;
+    font-style:         normal;
+    font-variant:       normal;
+    font-weight:        500;
+    line-height:        24px;
+    color:              white;
+}
+
+.userFeedback {
+    background-color: none;
+    border: none;
+    color: darkred;
+    font-style: oblique;
+    font-weight: bold;
+}
